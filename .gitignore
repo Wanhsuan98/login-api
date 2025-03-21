@@ -1,0 +1,11 @@
+# 忽略 node_modules 資料夾
+node_modules/
+
+# 忽略構建輸出（Vue 專案）
+dist/
+
+# 忽略日誌檔案
+*.log
+
+# 忽略環境變數檔案（如果有）
+.env
